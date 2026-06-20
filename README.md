@@ -1,4 +1,4 @@
-# QuickType
-A Tool for Premiere Pro that let's you add Subtitles Easily
+## QuickType
+A Tool for Premiere Pro that lets you add Subtitles Easily
 
-For any issues with the program contact me on discord: https://discord.gg/BXftASABTj
+For any issues with the program, contact me on Discord: https://discord.gg/BXftASABTj
